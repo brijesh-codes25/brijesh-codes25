@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Brijesh Yadav
 
-<!--
-**brijesh-codes25/brijesh-codes25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 CSE Student | 🚀 Aspiring Software Engineer  
+📚 Currently learning DSA & Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- 💻 C++ | Python | JavaScript  
+- 🌐 HTML | CSS | React (learning)  
+- 🛠️ Git | VS Code  
+
+---
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=brijesh-codes25&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+![Streak](https://streak-stats.demolab.com?user=brijesh-codes25&theme=radical)
+
+---
+
+## 📫 Connect with me
+- Email:brijeshyadav25798@gmail.com
